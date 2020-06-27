@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "transmit heart pulse", "transmit heart pulse\transmit heart pulse.cproj", "{33A39498-8018-4C45-836D-6BD14C0D3E3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A39498-8018-4C45-836D-6BD14C0D3E3F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{33A39498-8018-4C45-836D-6BD14C0D3E3F}.Debug|AVR.Build.0 = Debug|AVR
+		{33A39498-8018-4C45-836D-6BD14C0D3E3F}.Release|AVR.ActiveCfg = Release|AVR
+		{33A39498-8018-4C45-836D-6BD14C0D3E3F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
